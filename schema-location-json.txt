@@ -1,4 +1,4 @@
-For Single Location
+# For Single Location
 <script type="application/ld+json">
     {
     "@context" : "http://schema.org",
@@ -23,4 +23,4 @@ For Single Location
     }
 </script>
 
-For Multiple Location
+# For Multiple Location
