@@ -1,120 +1,115 @@
-<html>
-  <head>
-    <title>Frequently Asked Questions | Springtree Media </title>
-    <script type="application/ld+json">
-    {
+{
      "@context": "https://schema.org",
-      "@type": "FAQ",
+      "@type": "FAQPage",
       "mainEntity": [{
         "@type": "Question",
         "name": "International Orders",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "We currently do not sell internationally. We are sorry for the inconvenience. Canadians can <a href=https://www.springtree.net/canadian-orders/>order Wall Stations here</a>."
+          "text": "We currently do not sell internationally. We are sorry for the inconvenience. Canadians can  order Wall Stations here"
         }
-      }, {
+}, {
         "@type": "Question",
         "name": "Canadian Orders",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Canadians can <a href=https://www.springtree.net/canadian-orders/>order a selection of Wall Stations here</a>."
+          "text": "Canadians can order a selection of Wall Stations here."
         }
-      }, {
+}, {
         "@type": "Question",
         "name": "Return Policy",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "A “Return Policy” often defines a company- who they are, how they intend to do business. Unfortunately, we have become a society that buys and returns with little thought added to the mix. This is mostly the fault of the large commerce sites that make it easy to buy and even easier to return. Remember, someone has to pay for all those returns- and that is all of us, in the form of higher prices. At Springtree Media Group, we refuse to do business like this. Our associates are field experienced, and available to discuss and answer your questions. They are never hurried, never on commission, and have no incentive to sell anything. In fact, in describing what we do at Springtree, I often say that we do not sell anything; <b>We just connect people with the best tools to accomplish their task.</b> <BR>If we did not do our job correctly and what you ordered did not accomplish the task, we will gladly take it back.  If you just ordered something and asked no questions, we assume you did all of the research.  We may take it back and we might not.  A restocking fee of 0 to 20% may apply depending on the nature of the item.  In doubt?  Call and ask first. For most substantial orders consisting of larger quantities, we offer a demo program where you can buy a sample quantity at a reduced price with a full refund guarantee. That way you know if it’s going to work for you.  If it does, you just saved some money…if it doesn’t, send it back for a full refund. You can find the individual offers listed on the product description pages. <BR> Did it arrive defective or broken?  We will make it right- immediately and on our dime.  Has an item failed within the warranty period? We will do everything we can to remedy the situation. Different manufacturers offer different warranties, so ask before you buy. Bottomline:  We want our customers happy and will do every reasonable thing we can to ensure this. If you prefer to just order online with no interaction, then we are probably not your best choice. <BR> <B>Peter Vaque</B> <BR> CEO Springtree Media Group"
+          "text": "A Return Policy often defines a company who they are, how they intend to do business. Unfortunately, we have become a society that buys and returns with little thought added to the mix. This is mostly the fault of the large commerce sites that make it easy to buy and even easier to return. Remember, someone has to pay for all those returns- and that is all of us, in the form of higher prices. At Springtree Media Group, we refuse to do business like this. Our associates are field experienced, and available to discuss and answer your questions. They are never hurried, never on commission, and have no incentive to sell anything. In fact, in describing what we do at Springtree, I often say that we do not sell anything. We just connect people with the best tools to accomplish their task. If we did not do our job correctly and what you ordered did not accomplish the task, we will gladly take it back.If you just ordered something and asked no questions, we assume you did all of the research.  We may take it back and we might not.  A restocking fee of 0 to 20 percent may apply depending on the nature of the item.  In doubt,  Call and ask first. For most substantial orders consisting of larger quantities, we offer a demo program where you can buy a sample quantity at a reduced price with a full refund guarantee. That way you know if it’s going to work for you.  If it does, you just saved some money if it doesn’t, send it back for a full refund. You can find the individual offers listed on the product description pages.  Did it arrive defective or broken?  We will make it right- immediately and on our dime.  Has an item failed within the warranty period? We will do everything we can to remedy the situation. Different manufacturers offer different warranties, so ask before you buy. Bottomline:  We want our customers happy and will do every reasonable thing we can to ensure this. If you prefer to just order online with no interaction, then we are probably not your best choice. Peter Vaque CEO Springtree Media Group"
         }
-      }, {
+}, {
         "@type": "Question",
         "name": "Changing Order",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "If you need to change an order, please call or email us before the order gets shipped. <br> <a href=https://www.springtree.net/contact-us/> VIEW CONTACT FORM! </a>”
+          "text": "If you need to change an order, please call or email us before the order gets shipped. VIEW CONTACT FORM"
         }
-      }, {
-         "@type": "Question",
+}, {
+        "@type": "Question",
         "name": "Why Can't I buy Everything Online",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text":"Only select Springtree LED products are available for online purchase. For high ticket Springtree LED products, like Video Walls and Spatial Pendants, we want to talk with you to make sure we are connecting you to the right product. This is why we offer a demo program as well. To make sure our solutions are the best products to meet your needs. <br> <b>Purchasing Other Brands:</b> We list the price so you can get an idea of the cost, but then you have to click the “My Price?” button on each product page. This allows us to give you a personalized price without violating MAP. MAP stands for Minimum Advertised Price, and it’s the lowest price online for which retailers can sell a product."
-        }
-      }, {
-        "@type": “Ordering Information",
-        "name": “What Is The Demo Program?”,
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": “More than photos and photometric data, the best way to know if a fixture is right for you is to see them in your facility! The Springtree demo program offers a select number of the fixtures at a discounted price. If you love them, keep them at the discounted price, and order more. Not the right fit? Return the demo in 30 days, and receive a full refund. All you have to pay for is the return shipping. <br> Available Demos Programs:
- <a href=https://www.springtree.net/product/led-spatial-pendants/>LED Spatial Pendants</a> <br> <a href=https://www.springtree.net/product/spatial-flats-led-recessed-lighting/>LED Spatial Flats</a> <br> <a href=https://www.springtree.net/product/spatial-flat-pendants/>LED Spatial Flat Pendants </a>"
+          "text": "Only select Springtree LED products are available for online purchase. For high ticket Springtree LED products, like Video Walls and Spatial Pendants, we want to talk with you to make sure we are connecting you to the right product. This is why we offer a demo program as well. To make sure our solutions are the best products to meet your needs. Purchasing Other Brands: We list the price so you can get an idea of the cost, but then you have to click the  My Price button on each product page. This allows us to give you a personalized price without violating MAP. MAP stands for Minimum Advertised Price, and it’s the lowest price online for which retailers can sell a product." 
         }
 }, {
-        "@type": “Ordering Information",
-        "name": “Do you offer reseller pricing?”,
+        "@type": "Question",
+        "name": "What Is The Demo Program",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": “Are you an installer? Email us at<a href=sales@springtree.net/> sales@springtree.net</a>to set up a reseller account."
+          "text": "More than photos and photometric data, the best way to know if a fixture is right for you is to see them in your facility. The Springtree demo program offers a select number of the fixtures at a discounted price. If you love them, keep them at the discounted price, and order more. Not the right fit? Return the demo in 30 days, and receive a full refund. All you have to pay for is the return shipping. Available Demos Programs: (1)LED Spatial Pendants (2)LED Spatial Flats (3)LED Spatial Flat Pendants" 
+        }
+  
+}, {
+        "@type": "Question",
+        "name": "Do you offer reseller pricing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Are you an installer? Email us at sales@springtree.net to set up a reseller account." 
+        }
+  
+}, {
+        "@type": "Question",
+        "name": "What are Wall Stations?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Wall Stations are the easiest way to control your lights for everyday use! Wall Stations are wall mounted DMX scene recorders, with 8 or 16 buttons, that let you save a specific scene to each one of those buttons. They are the perfect solution for volunteer-heavy facilities, like churches and schools, where the most used scenes can be reached without needing to use a lighting console." 
+        }
+                      
+}, {
+        "@type": "Question",
+        "name": "Why is my Wall Station not recording?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The most likely reason is that your Wall Station is not receiving DMX. If you are in program mode, and the light is GREEN, your Wall Station is not receiving DMX. There are two things to consider;(1.)Is your wall station the first thing in your DMX chain out of your console?  (2.) Make sure your connections are good going in to the phoenix connector, double check that pins 2 and 3 are not backwards. A RED light will illuminate when the unit is receiving DMX." 
         }
 }, {
-        "@type": “Wall Station Questions",
-        "name": “What are Wall Stations?”,
+        "@type": "Question",
+        "name": "Can the Springtree Wall Station record chases?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": “Wall Stations are the easiest way to control your lights for everyday use! <br> Wall Stations are wall mounted DMX scene recorders, with 8 or 16 buttons, that let you save a specific scene to each one of those buttons. They are the perfect solution for volunteer-heavy facilities, like churches and schools, where the most used scenes can be reached without needing to use a lighting console."
+          "text": "A Wall Station can not record chases. They are essentially DMX snapshot recorders that record static scenes." 
         }
 }, {
-        "@type": “Wall Station Questions",
-        "name": “Why is my Wall Station not recording?”,
+        "@type": "Question",
+        "name": "Do I need a console for the Springtree Wall Station?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": “The most likely reason is that your Wall Station is not receiving DMX. If you are in program mode, and the light is GREEN, your Wall Station is not receiving DMX. There are two things to consider;<br> 1.Is your wall station the first thing in your DMX chain out of your console? <br> 2. Make sure your connections are good going in to the phoenix connector, double check that pins 2 and 3 are not backwards. A RED light will illuminate when the unit is receiving DMX."
+          "text": "In order to program your Wall Station you will need some sort of lighting controller or console. Once the Wall Station is programmed, a console or controller is not necessary." 
         }
 }, {
-        "@type": “Wall Station Questions",
-        "name": “Can the Springtree Wall Station record chases?”,
+        "@type": "Question",
+        "name": "My computer keeps sending out a DMX signal",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": “A Wall Station can not record chases. They are essentially DMX snapshot recorders that record static scenes."
+          "text": "Wall Stations become inoperable whenever they sense DMX coming from the console. So when you need to use your console for a service or event, your light show won’t be ruined by someone clicking a Wall Station button. Many computers running lighting software will continuously send out a DMX signal, making your Wall Station inoperable. Shutting down and closing out of your lighting software should solve this problem. If you are wanting to keep your computer up and running while using Wall Stations, we offer a Console Switch for $39.95. Console Switches are just an easy to use switch that allows your manually switch control back-and-forth between your computer and Wall Station." 
         }
 }, {
-        "@type": “Wall Station Questions",
-        "name": “Do I need a console for the Springtree Wall Station?”,
+        "@type": "Question",
+        "name": "Spatial Flat Installation Guide",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": “In order to program your Wall Station you will need some sort of lighting controller/console. Once the Wall Station is programmed, a console/controller is not necessary."
+          "text": "CLICK ME!"
         }
 }, {
-        "@type": “Wall Station Questions",
-        "name": “My computer keeps sending out a DMX signal",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": “Wall Stations become inoperable whenever they sense DMX coming from the console. So when you need to use your console for a service/event, your light show won’t be ruined by someone clicking a Wall Station button. <br> Many computers running lighting software will continuously send out a DMX signal, making your Wall Station inoperable. Shutting down and closing out of your lighting software should solve this problem. If you are wanting to keep your computer up and running while using Wall Stations, we offer a <a href=https://www.springtree.net/product/wall-station-console-switch/>Console Switch</a> for $39.95. Console Switches are just an easy to use switch that allows your manually switch control back-and-forth between your computer and Wall Station."
-        }
-}, {
-        "@type": “Other Resources",
-        "name": “Spatial Flat Installation Guide",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": “<a href=https://www.springtree.net/how-to-install-spatial-flats/>CLICK ME! </a>.”
-        }
-         }, {
         "@type": "Question",
         "name": "Payments",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "If you are having trouble checking out, please give us a call.”
+          "text": "If you are having trouble checking out, please give us a call."
         }
+                      
 }, {
-        "@type": “Other Resources",
-        "name": “View Springtree Product Manuals ”,
+        "@type": "Question",
+        "name": "View Springtree Product Manuals",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": “<a href=https://www.springtree.net/wp-content/uploads/2020/03/Elite60-Gobo-Projector.pdf> Elite60 Gobo Projector </a> <br> <a href=https://www.springtree.net/wp-content/uploads/2020/03/RGBW-Ellipsoidal.pdf>LED Color Ellipsoidal</a> <br> <a href=https://www.springtree.net/wp-content/uploads/2020/03/HSD-PDE-Manual-1.pdf>Premium Headworn Microphone</a> <br> <a href=https://www.springtree.net/wp-content/uploads/2020/05/Spatial-Flat-DMX-600-Manual.pdf>Spatial Flat </a> <br> <a href=https://www.springtree.net/wp-content/uploads/2020/05/Spatial-Pendant-Manual.pdf>Spatial Pendant</a> <br> <a href=https://www.springtree.net/wp-content/uploads/2020/06/Spatial-Wash-COB-RGBW-Manual.pdf>Spatial Wash COB RGBW </a> <br> <a href=https://www.springtree.net/wp-content/uploads/2020/03/Spatial-Wash-COB-WW.pdf>Spatial Wash COB WW </a> <br> <a href=https://www.springtree.net/wp-content/uploads/2020/03/Springtree-Wall-Station-Manual.pdf> Wall Stations </a> <br> 
-<a href=https://www.springtree.net/wp-content/uploads/2020/04/SM8IF-manual.pdf>WALL STATION SM-8IF | RS-232 TO DMX </a> <br> <a href=https://www.springtree.net/wp-content/uploads/2020/03/WWLEDEllipsoidal.pdf>Warm White Ellipsoidal </a> <br> <a href=https://www.springtree.net/wp-content/uploads/2020/05/Wireless-DMX-Manual-2.pdf> Wireless DMX</a>”}
+          "text": "(1)Elite 60 Gobo Projector (2)LED Color Ellipsoidal (3)Premium Headworn Microphone (4)Spatial Flat (5)Spatial Pendant  (6)Spatial Wash COB RGBW  (7)Spatial Wash COB WW  (8)Wall Stations (9)WALL STATION SM-8IF | RS-232 TO DMX  (10)Warm White Ellipsoidal  (11)Wireless DMX"
+        }
+                      
 }]
 }
-    </script>
-  </head>
-  <body>
-  </body>
-</html>
