@@ -1,2 +1,2 @@
 # seo-expert
-Lists of resources for seo expert and web developers
+Lists of resources of solved problems for seo expert and web developers
