@@ -1,4 +1,4 @@
-// This is a working FAQ page validated here, https://prnt.sc/vlawdd
+// This is a working schema FAQ page validated here, https://prnt.sc/vlawdd
 {
      "@context": "https://schema.org",
       "@type": "FAQPage",
