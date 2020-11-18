@@ -1,5 +1,6 @@
 // Solved: working schema FAQ page validated here, https://prnt.sc/vlawdd // 
 // Testing from https://www.springtree.net/faq/ //
+// Tested it on https://json-ld.org/playground/
 {
      "@context": "https://schema.org",
       "@type": "FAQPage",
